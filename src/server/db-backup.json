@@ -1,0 +1,167 @@
+{
+  "available": false,
+  "currency": "€",
+  "orders": [],
+  "moneyEarnt": 0,
+  "marginEarnt": 0,
+  "items": [
+    {
+      "name": "club-mate",
+      "price": 2,
+      "stockPrice": 1.32,
+      "ml": 500,
+      "imageSrc": "club-mate.png",
+      "location": {
+        "storage": 54,
+        "fridge": 35,
+        "empty": 114,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "mate-mate",
+      "price": 2,
+      "stockPrice": 1.1,
+      "ml": 200,
+      "imageSrc": "mate-mate.png",
+      "location": {
+        "storage": 129,
+        "fridge": 53,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "flora-power",
+      "price": 2,
+      "stockPrice": 1.1,
+      "ml": 500,
+      "imageSrc": "flora-power.png",
+      "location": {
+        "storage": 0,
+        "fridge": 0,
+        "empty": 1,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "fritz-kola zuckerfrei",
+      "price": 2,
+      "stockPrice": 1.1,
+      "ml": 330,
+      "imageSrc": "fritz-kola-zuckerfrei.png",
+      "location": {
+        "storage": 62,
+        "fridge": 32,
+        "empty": 40,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "spicy tea CL",
+      "price": 2,
+      "imageSrc": "spicy-tea-CL.png",
+      "location": {
+        "storage": 0,
+        "fridge": 28,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "barley CL",
+      "price": 2,
+      "imageSrc": "barley-CL.png",
+      "location": {
+        "storage": 0,
+        "fridge": 28,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "herby CL (330ml)",
+      "price": 2,
+      "imageSrc": "herby-CL.png",
+      "location": {
+        "storage": 0,
+        "fridge": 14,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "herby CL (250ml)",
+      "price": 2,
+      "imageSrc": "herby-CL.png",
+      "location": {
+        "storage": 0,
+        "fridge": 4,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "mate lime",
+      "price": 2,
+      "imageSrc": "mate-lime.png",
+      "location": {
+        "storage": 0,
+        "fridge": 12,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "kombucha ginger",
+      "price": 2,
+      "stockPrice": 1.1,
+      "ml": 200,
+      "imageSrc": "kombucha-ginger.png",
+      "location": {
+        "storage": 0,
+        "fridge": 10,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "kombucha lemongrass (big)",
+      "price": 2,
+      "stockPrice": 1.1,
+      "ml": 330,
+      "imageSrc": "kombucha-lemongrass.png",
+      "location": {
+        "storage": 0,
+        "fridge": 8,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    },
+    {
+      "name": "kombucha lemongrass (small)",
+      "price": 2,
+      "stockPrice": 1.1,
+      "ml": 250,
+      "imageSrc": "kombucha-lemongrass.png",
+      "location": {
+        "storage": 0,
+        "fridge": 1,
+        "empty": 0,
+        "transit": 0,
+        "reserved": 0
+      }
+    }
+  ]
+}
