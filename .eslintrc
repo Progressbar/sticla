@@ -1,9 +1,12 @@
 {
   "root": true,
-  "extends": "airbnb-base",
+  "extends": [
+    "airbnb-base",
+    "plugin:vue/essential"
+  ],
   "rules": {
-      "prefer-promise-reject-errors": 0,
-      "consistent-return": 0
+    "prefer-promise-reject-errors": 0,
+    "consistent-return": 0
   },
   "env": {
     "browser": true,
