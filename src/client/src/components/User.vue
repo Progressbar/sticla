@@ -16,7 +16,7 @@
         <h2 class="subtitle">Where do I bring the items? Click/tap the map</h2>
         <div class="container">
           <div class="pos-locator" :style="{ top: elementPosY, left: elementPosX }"></div>
-          <img ref="map" @load="setMapBBox" @click="setPosFromClick" class="image" src="@/assets/map.png"> 
+          <img ref="map" @load="setMapBBox" @click="setPosFromClick" class="image map-image" src="@/assets/map.png"> 
         </div>
       </div>
       <div class="section">
@@ -94,6 +94,8 @@ export default {
   margin-left: -10px;
   margin-top: -10px;
   border-radius: 10px;
-
+}
+.map-image {
+  filter: invert(1);
 }
 </style>
