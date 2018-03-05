@@ -1,6 +1,9 @@
 {
   "root": true,
-  "extends": "airbnb-base",
+  "extends": [
+    "airbnb-base",
+    "plugin:react/recommended"
+  ],
   "rules": {
       "prefer-promise-reject-errors": 0,
       "consistent-return": 0
