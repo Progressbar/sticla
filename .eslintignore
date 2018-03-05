@@ -2,3 +2,4 @@
 src/client/build/*
 src/client/config/*
 src/client/src/registerServiceWorker.js
+src/client/scripts/*
