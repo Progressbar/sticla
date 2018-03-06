@@ -2,6 +2,7 @@ const util = require('util');
 
 const db = require('./db');
 const log = require('./log');
+// eslint-disable-next-line import/no-unresolved
 const env = require('./env');
 const notify = require('./notify');
 const exec = util.promisify(require('child_process').exec);
@@ -18,7 +19,7 @@ const orderStatuses = [
   'payed',
 ];
 
-/* eslint-disable-next-line */
+// eslint-disable-next-line no-unused-vars
 const [DENIED, CONFIRMING, FETCHING, DELIVERING, ARRIVED, PAYED] = Array(orderStatuses.length)
   .fill()
   .map((_, i) => i);
